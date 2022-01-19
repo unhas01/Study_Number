@@ -4,6 +4,10 @@
 
 구글 Colab과 Android Studio를 사용해서 만들어졌습니다.
 
+--------------------------------------
+## 프로그램 용도
+어린 아이들이 아라비아 숫자를 배우는데에 있어서 어플리케이션을 가지고 쉽게 배우는 바람으로 제작함.
+
 -------------------------------------
 ## TensorFlow 코드
 
@@ -19,3 +23,6 @@
   + 숫자 그림에 대한 결과 값과 정확도를 출력하는 클래스
 * './app/src/main/java/org/tensorflow/lite/codelabs/digitclassifier/MainActivity.kt'
   + Main 클래스
+
+
+
