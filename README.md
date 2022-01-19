@@ -24,5 +24,7 @@
 * './app/src/main/java/org/tensorflow/lite/codelabs/digitclassifier/MainActivity.kt'
   + Main 클래스
 
+----------------------------------
+## 프로그램 사용방법
 
 
